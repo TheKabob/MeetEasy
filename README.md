@@ -2,7 +2,8 @@
 Simple video conferencing web app using jitsi-meet
 
 ## Preview
-![](https://github.com/shashankshet/MeetEasy/blob/master/MeetEasy-Demo.gif)
+![Uploading MeetEasy-Demo14.gif…]()
+
 
 ## Project Structure
 
