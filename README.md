@@ -1,10 +1,6 @@
 # MeetEasy
 Simple video conferencing web app using jitsi-meet
 
-## Preview
-![Uploading MeetEasy-Demo14.gif…]()
-
-
 ## Project Structure
 
 There are 2 folders Front-end and Backend
