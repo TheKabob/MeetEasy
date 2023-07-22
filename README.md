@@ -1,6 +1,23 @@
 # MeetEasy
 Simple video conferencing web app using jitsi-meet
 
+## ScreenShots
+1.Home Page
+![meeteasy1](https://github.com/shashankshet/MeetEasy/assets/48438739/86c3a040-72bd-406c-becc-a2ae8c2ed00d)
+
+2. Login
+   ![me-login](https://github.com/shashankshet/MeetEasy/assets/48438739/d54c4cc9-90b7-4658-b337-d67d903b73ae)
+
+3. Register user
+   ![ms](https://github.com/shashankshet/MeetEasy/assets/48438739/01dac24e-acf7-4d5f-b346-27488124aea8)
+
+4. Join Meeting ![Screenshot 2023-07-23 001151](https://github.com/shashankshet/MeetEasy/assets/48438739/b3cfd239-3cbd-493e-beee-bdfc6d5d927d)
+
+
+5. Invite Meeting
+   ![Screenshot 2023-07-23 001248](https://github.com/shashankshet/MeetEasy/assets/48438739/e17e27b5-1b0f-4d74-a098-f350e6d4e72d)
+
+
 ## Project Structure
 
 There are 2 folders Front-end and Backend
